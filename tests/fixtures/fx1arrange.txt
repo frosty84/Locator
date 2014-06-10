@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>&quot;ПИЦЦА КИЕВ&quot;</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Golosiivskyi Ave, 1/3, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4059410</lat>
+    <lng>30.5183810</lng>
+   </location>
+  </geometry>
+  <rating>4.3</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBdgAAAPKwiy_znOdkCnFuiV0BzqG7Tqjd3SeEKgnI1dTWgUIh9NODue4nbjZGsFjXO8P9eFwVAvNRBj1pLflwG3ZCOu4Aek26p9qWSUcD04xDFQHoIcW4B1oz9fR23eT6E07H8_A7iFLxMBB8LstxcMN8Yi9Qg5lnipiBgLr84oREX3i-EhDjctUnC6LBJHaCb8fMHpTSGhRgM6NM6cudP6r4wM4bPzfmgtdDow</reference>
+  <id>1575ba2668dd2178e64502b66b917d735542afbd</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRqAAAAM4Tpgp07SkEdZ75_flAoKPdkZLwMmRTZrkiA5n-HRjffywjHIZU4AgHh9OAugtzcyoA0s5pCuE3reyKZtMmeMMUBaWV1zYfgn5-V-n2NWC93i4PlqIxY9FOmXlCVIkd-e3O1S_3MN3zSaPyOr3pFjRIQoApJ4OR2YOgjgMFhKZPqXRoUyDEitf9BCMD3_SKggZBkalVmqOo</photo_reference>
+   <width>2753</width>
+   <height>1931</height>
+  </photo>
+ </result>
+ <result>
+  <name>Pitstsa Chelentano</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Bessarabs'ka square, 2, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4423760</lat>
+    <lng>30.5220660</lng>
+   </location>
+  </geometry>
+  <rating>3.5</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBcwAAAJw2Lz8AFDHOhRHUiZ7Z9In_OcCPAWgRFeO7khXoRzpSJm791Sx7ZTdBQHioGPpSor9kRwW6XB5qJubuoWcJpslO049fV_ynH9pyi2lpfLBJ1f7aC6iw8cI8h7TPigo1ANEFPZgxnvtvoJaP0LC8nKRnweaW50ai3y58ri0SxoOMEhBAI4n4gIkKvY98McoxzOgsGhTh8DcjtEBz_JSj5V3qt5760BxcTg</reference>
+  <id>a669e3b1421e8e8b0a053b99a2d945bc0e9ff266</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQDewEAAPIhyInoAYhwEnTRhsQthbaTR_JpKJrpFOQsst9mbITYigucrr3YEznuQYCajgr5h2L3AA5cVO-xV6Fb7eVAp0XzJp3LALlsRVOmRwGOLlP8Na172nQ_a0xztRh06MmZJEhK2EEZZf7L8NRvx-suzRZAPDxE76kkdssdnhQa4As9knBeyaTrwKl8RpdC78fGTYoGq1ZAO47_6KNzZt9uIq2_zemjlzO2_JpBfmffaggyKcPWeygDpVx6cMRMg7YdoycvjoAs9QpbYXO7sM4envGxIg-GvUIT40srhAXUHCYdmyWLnAPmZ_ETUeg_h4txkWaUDgLlPwoW8uZY8nzycrsq78Epm8nYOoL6PtgNHyjUfR0Gvk8m3zZ5hLIUSr4j1Ks0NecSJQcQHCixX4HFuwdEwnM5NpvS2CL1nyRv25W6l7Ee3JwKPIgvFqchap_PqMrdYkmVauKVgUWF_vdS8f4ekroe7vjxwdI3eiqy60J6cK_de4GThpTcmYgsCV3n9hIQXbfTqPqe2lL-Vq3t-wfdhxoUDMPvOhfHU3gYg2VbJpgppua6XGU</photo_reference>
+   <width>1296</width>
+   <height>776</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/100068792246957950818&quot;&gt;Антон Кузнецов&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Sluzhba dostavki pitstsy «Pitstsa Pati»</name>
+  <type>establishment</type>
+  <formatted_address>Kyiv, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4374120</lat>
+    <lng>30.5544190</lng>
+   </location>
+  </geometry>
+  <rating>4.7</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBiwAAAOo_iigbLbC_PwkutQ-ahTP77PXok4G52Q0NSyeAZIETA0r_DmyOf5p4Jd-cVCTrEkOTayxutnImoSQ1_0UtGZPrZK-2A0qCaD6P5sEvIXxW6DqrtLVGxByJbgUe_m1LXyU6ckqnZsRlEpNgvzi6BZ-H7MgKnWhCz3yskkbQyvRW1WAfiyfLR67TBollmFM6rhIQ1Shx_MPtmt-F0WsTk7ny3xoUypnd1GGPCTMdXtZoU5OmtfFKluI</reference>
+  <id>26858768682a6a5f843907e4e72a3ffd0702e0ba</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRlAAAAeJQdqBJIQ020alz_iK2O_4wStHYEfCRcJAJ9vc27ebjrt1dOFx9KCSANNoIPTrIwY81xsypVpArsP3YRrtywg58K5xLbCLlECqXe3MCXYFBbX6HwZowEywPnLuUHfRkGv_zN6p7ItY_DxeVD62VsZhIQNsiwpjZWyPKrKq1dx-U4-BoUWab4nREPzKnlrA2lTVDNiEfd-zI</photo_reference>
+   <width>100</width>
+   <height>100</height>
+  </photo>
+ </result>
+ <result>
+  <name>Мио Пицца</name>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Mykoly Vasylenka St, 1, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4569680</lat>
+    <lng>30.4199370</lng>
+   </location>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcwAAALKnpJzGyxAv7yXGA4k2PtfRBwvZhoNiRyVjZp5WoIq0CmQjJN0CttxvzBklAhjvpIixuhg_9AeMS0bf-5nVuB_nU1glk52QYRSRTJscCocJlVvy7Cy18ZZtqMov1-7ov5efQa3hfJOl25DwaC1V2reG567VUG0H7POG0SOCRbZfEhAeI15ntE_AvFyeUwEbQhX8GhT3zUqMB9BqvMcJkQ195oWD6ojBnw</reference>
+  <id>ed3c32580ef70d68c0e7d9fd1bfc08a784374a6c</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBdAAAAGoLsNIiRvWSHY7F-736IxhXzaGXBWKwhIc4CBNW32yPxAqygVK6VNi-CSDRXc9oLbiJ5JuBgiFRm2WbN5RCwqYMKGoQ12zTtFnQTWPIaxUSO7j9P29dplUdUNDrwO52KDpwuTz2geRrS1QmLWTA_fiK5DPnxE0wOidUQXrrWuYbEhB7ZdUItWM5YrRfThG4eV3yGhTLHkrt_RImEqh9IPhqJyaIg9m_4g</photo_reference>
+   <width>800</width>
+   <height>533</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/107147912997647998273&quot;&gt;Александр Савицкий&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Adriano Пицца</name>
+  <type>meal_takeaway</type>
+  <type>restaurant</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Hlybochytska St, 33/37, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4627820</lat>
+    <lng>30.4949720</lng>
+   </location>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBdAAAAAADbaLVfDTBSeHco_n02fbbTh0lHBHZbyzeMrRNT0MjF4URRTGB53UDvRFZ4VTTQLZu-zaQ4GE-ppv09qd0x3FNPwzEBzCovad4XOzDY_KNefOsyeSUMrOdCYJckszZhYI8MxQgSljUbZ2LGTn4yhm2v6ftJ3_GUO2iY2ywdBTEEhCWu3N0mQnLZHKeuvka_WvQGhR7qZHIq5qfkzqP5JyqXGJ8BshIXw</reference>
+  <id>e8d31ddb2f6a221916010713f8c9f7f14451cba3</id>
+  <photo>
+   <photo_reference>CnRnAAAAnsO52R77qX7jH-vBjTo8Rqai0JhDB2dIeIOOYrDW3ToGaVxnKw7_xX_if7aPhOdFAT4-wcn6dNht7WweNh81srWMb4M0J3i51ga41UI4wlhD5u3T9v0GRGNtJCUV_x_bNw0mWNa_vgLnnwzWX2PiExIQqeY5qgpEn9dkvO2qaQsRzBoUQqD_S3CASOF3eZtLTcBKLhY0mpY</photo_reference>
+   <width>512</width>
+   <height>512</height>
+  </photo>
+ </result>
+ <result>
+  <name>ПИЦЦА 33 ПИЦЦЕРИЯ</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Vokzalna St, 9, Kyiv, Kyivs'ka oblast, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4402340</lat>
+    <lng>30.4929790</lng>
+   </location>
+  </geometry>
+  <rating>4.1</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBfgAAAPKjrvDbN-5miCNHvWvGkC9mjhu3xbEd69Sn0t2LnSz-HYU8SAJ_tHSJZRHicFyF7hT1llyUxfuMW_aWaG9_OARTLJl1lx3ZiUYWXlGlt0CUORTRkw7t-3-hPxW0DMOLnMSlyos-R9zNLnw2krSx7t50GKBLEeLV-iT93T7jbRcHEhAg9PvOlQFjibQefZNClSTaGhToxFFiYwOQOa1Kgk_cOzLVtQYjvA</reference>
+  <id>5d321df72253558dfbaad0a67ce3b29c60f80ffc</id>
+  <photo>
+   <photo_reference>CnRnAAAAKXINkcs7uzj4E-5voQsiPqMW16xL2wzJC_8R-kUAoHH6ovkxVQu_JLLkDLURxCE7xWlFfA3ZmXIIsQd6oohnhnAOeh76B-6POMWsGkJv9ytLpdZ3L6txfW0cnyktnluNFp0tlQSOAjPrkquoCzfEzxIQOi8dQg_uh83qJCUmhG-RUBoUpUJX09LUsUrvcuThQ65LNfvFFGY</photo_reference>
+   <width>163</width>
+   <height>140</height>
+  </photo>
+ </result>
+ <result>
+  <name>ВЕЗУВІО ПІЦА ПІЦЕРІЯ</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Рейтарська вул., 25, Kyiv, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4519430</lat>
+    <lng>30.5103950</lng>
+   </location>
+  </geometry>
+  <rating>4.2</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CpQBiAAAAN8n2KsQ4mg-ZgRjgJQWJFJ1vykd_ATEshQcoGPUEYLjc1fmxXWhqjNAwO5GbBrW1gMoGtujK64fMkbxDrT8n93IzdxVO_jicef_dwzhh8uPYC1fLWDxQG1P97wR0Dpgo75eqwpDQ_TikJBg3tHouZo4WyDhNJqsJTnN0D8-4vkMWhSoOlAoUQd_HWOtKfinvxIQ-pDRC1B0V5nFVeziT9P9YRoU_bUZGRNJYxBFe5wSiaOlDKLdYYM</reference>
+  <id>1adf21954f6d5905397cf1a0b273dbadf933f846</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAwkrDUa8xicX4-dIAePlSU6I3uIau9M1wuZQ0m5DIItaTG_irvfO6lxFyx_dkHpgxaMtIGjnZeNjrqCUeeQiB4JuMs3_gvDtbYTtJWVads4CiKdoGBkF1oEi_xtdlG74p5V5Az00I-PaeRmDAe1aHGhIQaP1mvFxtQdScPNVDhyn11RoUcI5dpqyCzUIOU9kV83CZMJEyFKM</photo_reference>
+   <width>774</width>
+   <height>440</height>
+  </photo>
+ </result>
+ <result>
+  <name>Dostavka pitstsy PizzaHouse</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4374120</lat>
+    <lng>30.5544190</lng>
+   </location>
+  </geometry>
+  <rating>4.7</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBfAAAAEWH8QswOgyA3zm2yj4QFUMEWZxe8sSQMt_WteZx-yphqz87CCRMTWa4Se7APTg-zzQOy5qFHESo6CdtEGtkGjxb0hTJznkTSKduu01Bj_S113cWezGCr5Yse-bPaFAN8RXgqXWwgMksWC0firkJkvctyt_XWIc2mS67Swf55kkeEhCg37GJI32oECp-_Ibmy0MxGhQ4j-AVqqsYUr6plbeUVKfzX72jzw</reference>
+  <id>4e13f38a1e1b2c9b96c48ebc796310c669c71af2</id>
+  <photo>
+   <photo_reference>CnRnAAAApixbOYBXiuedyGDkpQxo2sIcfbklMtbTwAYeAg71EMenfC3AkIU539zMTqbmkWLE5OnvHu64eGgIbeMdhfAFYBBMPOY41DjdYFMnTgK8enZ3i9HcpL8kUhyOvEmmx6Q4tg388xtkNx36aD7WCfBI2BIQj_HwNF1Do07lv9rGgyXf7RoUDQURMpMzF5SqSXHvA7y_CAzP594</photo_reference>
+   <width>598</width>
+   <height>408</height>
+  </photo>
+ </result>
+ <result>
+  <name>E-Pizza</name>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Naberezhne Hwy, 25, Kyiv, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4416720</lat>
+    <lng>30.5580540</lng>
+   </location>
+  </geometry>
+  <rating>4.6</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRoAAAATVyzu5B1lT0FhlftAr4XutsdwWEjTXoCpxK3FWPwZlG9t9qGzPhPj4SWcbVdLTE0R0_ixpoS00ceuuGRhdvbcU2-5elifjnL-pAOQvoG92jFxPch4pHMndJBxMMk8q0Ro1SCyfTSJ99WDl-UaUYEahIQuesbzPYvZb62yoIg83K1VRoUa7Zv2rmVMAX_5A_hV9Q5EGzqgzA</reference>
+  <id>80c2c78f9d987f5dd98f52f59e1cb9057176b8fd</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA3EYMXi8mWsnkEDmgSM-FAEyX1-i4dtHZn_PE8MvlSqf0RJVxQliFKyD8HhmIMIptjFSIUXQULXjx_CrLN-nLrWzcoZbMlNYXy0s6nGsBNFruZAquOLcqAdNnva5OE6vohiZYsNu5yzb4r_25husMJxIQ08T0Oz8BixXAOgy-rDPvbBoUsrAzEnHtyJytUUtxO82MIWoxbH0</photo_reference>
+   <width>164</width>
+   <height>165</height>
+  </photo>
+ </result>
+ <result>
+  <name>Пиццерия «Рондо Пицца». Доставка пиццы в Киеве.</name>
+  <type>meal_takeaway</type>
+  <type>restaurant</type>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Oleksiya Ter'okhina St, 12, Киев, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4863380</lat>
+    <lng>30.4780750</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CsQBuQAAAD9sRGs036sMYKojmO5xdMFr1j6_xqv6G45S9dqhytDGG6jyBio8ZHPeZA4E0D6igYO4DY3ZcvTDmeSfHDpTwTzp3uq3AHivkAXzDJ7-cRJT3rOhGoBGa7MRdubWJwqHg2P4sULXWaFP-PjJ6-_VqE0HpQ59QwXDNfhhbbVhwhPCFytlRsB3FU_TwrT71XRiuFMLLuHJ0qg189cw9bSCoNX7J29j0oBCoxv0ONZbWjHNNoMCv2HGjs92TgiC4t0aCxIQWpF_5K9I2BapgGlCtLMXABoU2uDIKC1MtTzPu8HamxfBuACwLuI</reference>
+  <id>924d3d9c1d062ad45e5acf8d6b4359ccb995a3d7</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAjkoihlWZaX5lALvla1bPzqQdwf6MpcMOPWXvHQzJm_kWbnpmfkjfmpZCz6bYVPoAAAgCq7hD_OuO7f2TbuyzWVgjo4t0w2plFc-koJQm0blP3DHcfuAj00YHt5d3KAOyxsKqeLXcWc3OIUU0YYs45hIQotAOv-6IXuN_Kv0VunU3_RoUkBqJOyiPF1VA8-RLg6RjfHE4m_s</photo_reference>
+   <width>1000</width>
+   <height>666</height>
+  </photo>
+ </result>
+ <result>
+  <name>Пицца Хата</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>вул. Леніна, 29, Київ, Україна</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.3879180</lat>
+    <lng>30.6916380</lng>
+   </location>
+  </geometry>
+  <rating>4.4</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBdAAAAH3vDvopV49gMxes63ISQRyLP7mjFxhG1-Wn6z-VW4blDpO6UA9IEhuFDZyL8Qu21c2D2zqaoV7tQ36-z7U7jshndccVj-PI1VZPu6Pd6jF0sz8xxfRl1SWILkTwG4iuAZQawvWfBadzl7KyG2tymBhcVoAnYoXyK_3AGQxIWsFgEhC2kkVKhBqFN0UtQwcdLwUYGhS21cAoZLwz9dCoehGdClAoSb468Q</reference>
+  <id>ea58d478c276767a8db6cc0576b60c7d614ae139</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+ </result>
+ <result>
+  <name>Verona Pizza ТОВ</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Kostyantynivs'ka St, 73, Kyiv, Kyivs'ka oblast, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4745050</lat>
+    <lng>30.4992910</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBdQAAALU70SRrGa7KvR0l7Ap_M_nZkQ6_dV7shQx60b2ZLPnoGq7f_dUuzBDD5DAgUsVje4WjN3FFpi0fJvRM0bYAKttQg-6hsRpbcH1Me4Uk5Fay-nt_yAM8qTxUaAERqz5CsB4KHldO1iFKSBFRSxxFHCdHtACKW6JO69JpQnmbagPOEhCdIIrAKRW_8nHMbfK5wh-wGhRj653MGprJT5QBfvI4l3BcSIfDiw</reference>
+  <id>bdc111d4f5c05525462b5606bdc248fc46a13f84</id>
+ </result>
+ <result>
+  <name>Дабл Пицца</name>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Frunze St, 127, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4935500</lat>
+    <lng>30.4609970</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdAAAAMn5QJJH7l4a7bBteB1TBlASt3jTayrVKTZxivZ4I9pjQJvg9AytaoAEDGoZAn9vToRe8cfH7HAQAyEhqd4p_8x8y1nIKNAs3YP909Gbu4YpkczQcLxlGBRPkNkl4rIgJg-zYGF1m4V2t31IGb-ah_FqgBocoHup_Dexn78UwvfCEhCc6NrXH_fo1WZ2UfAL1Kp0GhQVdOpdDRnuRsXMGGwxjvbFcaV8_A</reference>
+  <id>7260f20a2dc4f0e9660003e5623d1354179f8945</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRuAAAAR8AcOXLE0SzvDe1BxHLKy8-iV5LT0kqdF55hRmo-rmKdKLwVea9vO88Uwe0M5AZ_4b0KN0_O6mHNgoQuOiJlMbHwvdipDe1qRsjON1YRzKP9bCZxHF4lBq0524y6-FaHhcYDR9b-zex5rFFnVNa8mRIQ0Le9etWRpdKyCOLaEaOXrxoUZNhsPw9UQT41oOXtDXcWRkB3IB0</photo_reference>
+   <width>450</width>
+   <height>442</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/104862641752299363187&quot;&gt;Oksana Korobejnikova&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Пиццерия iL Molino</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>вул. Саксаганського, 120, Київ, Україна</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4455620</lat>
+    <lng>30.4955360</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBewAAAIu65JhsltghPp_bFsNPj9Xu6YzfoXmlc8WRKjqZxo-Iti0lbiBqbpwe3nt3jbV-uxH4qgmEEpZF8Gx7vifAZWTy_b7xkyt63-ZYYlxrwacNw-aymlkkBTfbKGF9ewHSRqzF_cNwyNv02fdGsgZ4YEq1H3eTFuwNd3PApaHFNJIrEhC0_KbnRSxcC15up2HORpAfGhRrMinbhGdATZ36SQ_TTvhMHRlYiw</reference>
+  <id>2d7cc9aadc1d84ad6a67a8ef35824631aab84809</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRoAAAAvFtFnMNXQ_4vu_STLtWjv2ewpg_Z4-ld2YAGSwTbQl_XuGMRzCOFQlPpiYWgIVKQAfykXh79LHq7aocnYPQbOYX8M6WFOV_zpnYNuEvDBh1zeEFeQDbZ80JS2xkQoWCv5ioJ5Q--QVkLXRlO2NQjhBIQpHFyFnayINUz42ZStLQeDBoURSSIeM0LIOI5RHXBuXimjK4USOI</photo_reference>
+   <width>1296</width>
+   <height>972</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/117204250896147923325&quot;&gt;Svyatoslav Komakha&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>ГРАНД ПІЦЕРІЯ-КАФЕ</name>
+  <type>cafe</type>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Chokolivs'kyi Blvd, 39, Kyiv, Kyivs'ka oblast, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4370260</lat>
+    <lng>30.4507740</lng>
+   </location>
+  </geometry>
+  <rating>4.1</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png</icon>
+  <reference>CpQBhAAAAGIYCQ5z8_66tXjanpgWcPhI5tXP2rDJUazHCwVPbyeRYuaxSLoXQVcSXFVAMcgP_01adW9703zjBTfAPQN_PhjGbqXjtFUrgvbma3cnRQ-bdhDsxizg3d6UtlFtdH0-iVVMMXfZTf9-bEDrkXFpqo8uXD7ptUvdXbpbArxmiYFI-M9ejaPVWJVikk_qlM27qhIQf5_dmkeJc6S_8LV6PLoirRoU20JxIle8wAwJXoV1raqMXnTFq4c</reference>
+  <id>0b4876b7d65149656be47060f0e36a63edeaa750</id>
+  <photo>
+   <photo_reference>CpQCAwEAALi1Mw280NA1gid9s8AB5vnAIlIoV-CVnkembY-QaEiZl2zAEmCkxB6J4lMuDgZWToGeQe5bFhTf7AOZolhOPC0769OevEcpegyeEMTgWQwGhRb2OSB_Y_W5kQrnH8v9Om4GQnn0xhFqovV3MlMu5LuG4MPGQWX52BCvU4xrAS_vd2xZFUhmIsJxr1PnYqhA5I0KLPS7AtpQwa1ebiaWJn4uuPlYXn4TYzs5Oge_k9O2WvIiUcyXBDCPkGOq4-tj34Erkmnqsh_mLsLOrQ_bcGhKwxQRQdl3NseNFm8iGruyLxo-7C-RpPFbfSmUclBHnLy_X8Twj810eJqxLaSiu_v_wrzMUyK9j5hP-W1ANVmYEhA5J1_yBbrB_o9jQbPxE7dBGhQGaeP5W2Gttsvif5RdJCTb2uAw3g</photo_reference>
+   <width>1632</width>
+   <height>984</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/117149907633937481472&quot;&gt;Sergey Glinskiy&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Domino`s Pizza</name>
+  <type>meal_delivery</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Baseina St, 17, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4398730</lat>
+    <lng>30.5240880</lng>
+   </location>
+  </geometry>
+  <rating>4.9</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CnRwAAAAXv317TJm2tNAeXaksG7CpoqFWM6U-HAECeUTTJrTV1rBZaabcgy8_K-NggCFScSmN6BdP0PZcoktPkKPaHsY0NtWLBNLFffcUTjlKjpJa5I6gO3j-N6VX129-v64C99u6t_mXLKK0alRKkNWFWuaxBIQYIBxXHT4lvbUQiNeLYnOORoU3B5IlDllk-DXe2BPKLH9bAiOCKE</reference>
+  <id>2542133115df620e51026cbf30cc0bb9503ffad2</id>
+  <price_level>1</price_level>
+ </result>
+ <result>
+  <name>Pitstsa Chelentano</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>проспект Перемоги 28а, Kyiv, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4516290</lat>
+    <lng>30.4665470</lng>
+   </location>
+  </geometry>
+  <rating>4.1</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBdAAAAP6stFjNft7-Fgrkspqoe3kwccLm3XuczkjEKUH4cnZHbpYPnftx4ZUoV0BB84PzzuhixUdJb9AUokhfNsmwIcF-JMB15sPx0HJS3qwbL7W5o3lZa5FcfNulqA5ZCAghkdrynHbn4O8TK2r2h11k9JRpQbvJYjeQb7nE1vdvHwIdEhC7ZhNIWoSfoCILrc84cqM3GhSKl9R8_q7L5ednQ6GtFuQjBgvWGA</reference>
+  <id>071ff4b452a99bdb63408005b163ce7efcadc616</id>
+  <photo>
+   <photo_reference>CoQBcgAAAMaxDyk50u8LCzkcbUrob9w1whkRcw3tyqT-oSDgmZi_IahnTI_xZ6DhUiu5D2Db6SDBj57oiSrokUQivoYnlGZDuCye8ZsaDPUb1D1q9PP5GEIRuYCLeKbu97tGoqmUmWHxe7ffkGPtMdW0H1vHIoM_RZJqH-nw-vL9W1sW-5pdEhDoqFfeSGRPQ5ipZmaoT7ZXGhSv1SGl2nUMcXQq3_h95qsGj5AtTQ</photo_reference>
+   <width>1280</width>
+   <height>720</height>
+   <html_attribution>From a Google User</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Пиццерия il Molino</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Moskovska St, 17/2, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4395120</lat>
+    <lng>30.5447440</lng>
+   </location>
+  </geometry>
+  <rating>4.5</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBfAAAALd1xmDtEt_mdym-jLzWe82-SETgXs4ejqQ_1--8UopmX7Y5jiIxqpmdkAtAtw8bF6McPM05Z2vWL39J6SkyKtXhTzQ3oRMxYFwFCMiK7V4-E9NoqguUksiQ2oRzWSRGkkKlXZGlB2VUgUYr2waVf2ivV5Wvnfa-9R50TtpW0EzSEhCCGix33KBxMwyv5DoTgSbsGhRsjj285_2KrUlbxPkwj-zM7HdWUA</reference>
+  <id>a87352c0cf3d6262ea4e36134881cd35a1cef297</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+ </result>
+ <result>
+  <name>Pitstsa Chelentano</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>вулиця Червоноармійська 23в, Київ, Украина</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4388800</lat>
+    <lng>30.5179810</lng>
+   </location>
+  </geometry>
+  <rating>3.7</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBcwAAAGAceorbeuL-spo42hqpO5lb2j0jmhwBiXa_MqiQhc0kjh6sW-HKtFDxVZE4GqP2oj786Nwg7NbqhZ2l21g6a9kO6omgZONsfEv9zRNPppBJn8uCCeiXhvOfZBgHrnYf9b0v3hHugG2RPsYi9pk2YcmUIju0qfbswhT1l7ioqLtREhCbtn-85mwMQlNTA2yrijm7GhQzzDLNdRdvroeQpv3TsrPcwKvEhg</reference>
+  <id>09376dd4c1f3e345da419262989a4d2ffb44bb1a</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQC8QAAAIEivM6ecegBY2SlSkVnmrly5QLscy6H9yflOLXrNqKXUByCA4l7K1bT1JENDvfPMzvrIbBAjBd6EvC6mIWNu-RpbdSuEzopoQmATY3WLz1gSUP8iM-9pQB7EnlLQptczyEsu2VguH8bOWj_PU6QB06g0LrwTutYDF6ABmn76QhzVEKvH-TBJ37ND9_9Gf5KNQ71AT1xn9BL_bxlHePHhNaSZZj2Z0HGkIDv7pSJKyswv1Ui_wY6X0juW5-AbTz8e2tTlxwG8NOVS-7JzJY4d2FpjCuao0-zUukZ92SjUd_mYe8wi_-5tuFAF2Ul2zQI01Gq4m_jFaIjfOhZxQ0IESESEIiaSgwTnib0ZH471NAk24oaFMjPYvYVjCtrT4yZoIOYY-FdFBed</photo_reference>
+   <width>600</width>
+   <height>450</height>
+  </photo>
+ </result>
+ <result>
+  <name>Pitstsa Chelentano</name>
+  <type>restaurant</type>
+  <type>food</type>
+  <type>establishment</type>
+  <formatted_address>Saksahans'koho St, 57А, Kyiv, Kyiv city, Ukraine</formatted_address>
+  <geometry>
+   <location>
+    <lat>50.4359820</lat>
+    <lng>30.5080520</lng>
+   </location>
+  </geometry>
+  <rating>3.9</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png</icon>
+  <reference>CoQBcwAAAD2E7RXHhMA3RL9TW4b9FT0Qi6Ke5LQYXsTSJxKUrN8FvNjDeu_zRcelnBXWY4CDYNWBCRsh5BooNQQcoM6HZ11Grti6CFCtVYkOIADdPVyC-Brl-nSZhdjLaRbTAZgCvJEUvkMt9uALhR4AkIK1TnGpRbi1ZKLLJnLgob1a6YKUEhC75yZKpl6-DeSsYYasb1NZGhSokzyJQS32WXHSFvtjeB6-QIIqVA</reference>
+  <id>303af38e4dd90e4cfa3f83c12c9d43aef2e2720d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRqAAAAZAGfxGPa6gjkXxrK3tqrES75m3WsLmLafgnxSjRueLAyAZFiU4RvYKYdfwHkY2WKSNFi7k7SJ5gZOglXgHb0cOTcN6DkTpP-dROhL7borxWZix9j0xKzPV-kMe2X3hOciNjVU0t8CKplOiw65IhfmRIQFcl6hYmYsXXSivBe2czuHRoUabVX1qborQ0OvRVVZbMQ45Vl8pE</photo_reference>
+   <width>600</width>
+   <height>450</height>
+  </photo>
+ </result>
+ <next_page_token>CuQB0wAAAJAm6GkNE4n57yISowhVAwGvmiMeHyZK8i7tFozph98CSxyjPgcBol8jzj8dIztL8nnfmIB-gkHfDMIHmPE4W1Ywp-CGOXLdQkVW_scABsQ361xSLFOzHZ2ilE7nb3bFjIRmqLG1xYs_z8t54qw2EG8nSHHKBvTCiVWQTCED_PpCDSf1zIAP2Hh8HE2pA9fT3ljgeN5OPtnDKdhpWZc7z1JsICUMnoNRs1l_wzRMG73DfBzwYGVGKSCRKz2B5ALtc-OyeWkMzgPgNlFovAZUduxHZpHuywum5KNe4f_-sgJTEhByryVkau5H7wIngE4czEXxGhSwdwdfE45PW5L7M4oMuOHWo3LSOw</next_page_token>
+</PlaceSearchResponse>

@@ -1,0 +1,11 @@
+# Locator's configuration file
+
+---
+
+key: AIzaSyCJ5VaEENCa_rcDSZ0Tzrfs1rNfd5xxzpk
+cacheDateFormat: YmdHis
+cacheTimeSec: 3600
+curloptReferer: http://127.0.0.1:8080/locator.php
+curloptConnectTimeoutSec: 30
+googleTextSearch: https://maps.googleapis.com/maps/api/place/textsearch
+#googleTextSearch: http://127.0.0.1/maps/api/place/textsearch
