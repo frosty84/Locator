@@ -4,4 +4,3 @@
   */
   class InvalidArgumentException extends Exception{
   }
-?>

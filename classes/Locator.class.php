@@ -11,17 +11,16 @@
   */
 
   class Locator{
-      protected $key;
-      protected $cacheDateFormat;
-      protected $cacheTimeSec;
-      protected $curloptReferer;
-      protected $curloptConnectTimeoutSec;
-      protected $googleTextSearch;
-      protected $request;
-      protected $respType;
+      protected $key; #google API browser key, generated for curloptReferer
+      protected $cacheDateFormat; #cache files datetime format
+      protected $cacheTimeSec; #cache expiration time in seconds
+      protected $curloptReferer; #referer page that will be set during API call
+      protected $curloptConnectTimeoutSec; #cURL connection timeout
+      protected $googleTextSearch; #google places TEXTSEARCH api URL
+      protected $respType; #type of desired response: xml|json
       
-      protected static $RESPTYPES = array('xml', 'json');
-      const CACHEDIR = "./cache/";
+      protected static $RESPTYPES = array('xml', 'json'); #allowed response types
+      const CACHEDIR = "./cache/"; #path to chache directory
       
       /**
       * Locator's constructor
